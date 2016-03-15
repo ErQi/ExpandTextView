@@ -11,3 +11,6 @@
 
 - 待添加功能
 > 添加对Spannable支持,添加对图片支持,添加对不同字体颜色大小的支持.
+
+- 导入方式
+> compile 'com.qile:expandtext:1.0.0'
